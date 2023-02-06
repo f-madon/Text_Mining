@@ -1,29 +1,43 @@
 <p align="center">
-  <img src="https://github.com/TStrada/Data-Management/blob/39df1ad03afa7845d1aee18b832b7405f528c6c2/Images/Music.jpg" width="60%">
+  <img src="https://github.com/TStrada/Text_Mining/blob/main/Images/Hate-speech-Facebook-takes-down-post-calling-for-deporting-criminal-illegal-immigrants-750x450.jpg" width="60%">
 </p>
-  <h6 align="center">a Data Management Project</h6>
+  <h6 align="center">a Text Mining Project</h6>
 <p align="center">
+  <a href="#tools">Tools &nbsp;</a> |
   <a href="#overview">Overview &nbsp;</a> |
   <a href="#data">&nbsp; Data &nbsp;</a> |
   <a href="#presentation">&nbsp; Presentation &nbsp;</a> |
   <a href="#aboutus">&nbsp; About us &nbsp;</a>
 </p>
 
+<a name="tools"></a>
+## &#9741; &nbsp; Tools
+numpy == 1.21.6   |
+pandas == 1.3.5  |
+seaborn == 0.11.2  |
+dask == 2022.02.01  |
+re == 2.2.1  |
+bs4 == 4.6.3  |
+nltk == 3.7  |
+sklearn == 1.0.2  |
+imblearn == 0.8.1  |
+xgboost == 0.90  |
+matplotlib == 3.2.2  |
+gensim == 4.2 (classification) 3.6.0 (clustering)
+
 <a name="overview"></a>
 ## &#9741; &nbsp; Overview
-This is a university project focused on acquisition and storing of data. In particular the aim is to develop a music reccomendation system for all users who want to learn an instrument.
-In the first section there are two functions for scraping informations from websites and one for taking songs informations from Spotify, using API.
-Then there is audio analysis for 3 instruments: bass, drums and piano. 
-In the third section there is an analysis concerning about dataset quality.
-Finally there is the building of reccomendation system based on Neo4j.
+The Hate Speech and Offensive Language dataset is the subject of this study’s text classification and text clustering sections.
+The dataset consists of tweets that may use hate speech, offensive language or neither.
 
 <a name="data"></a>
 ## &#9741; &nbsp; Data
-You can find datasets used in the <a href="https://github.com/TStrada/Data-Management/tree/main/Dataset">Dataset</a> folder.<br> Audio file are not uploaded. 
+The dataset is built on information gathered about CrowdFlower users, a platform for data enrichment with access to an online, on-demand workforce of millions of people who complete tasks that algorithms can’t alone.
+You can find the dataset used in the <a href="https://github.com/TStrada/Data-Management/tree/main/Dataset">Dataset</a> folder.<br>.
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation 
-You can find our presentation in the <a href="https://github.com/TStrada/Data-Management/tree/main/Report">Report</a> folder.<br>
+You can find our presentation in the <a href="https://github.com/TStrada/Data-Management/tree/main/Report">Report</a> folder.<br> and <a href="https://github.com/TStrada/Data-Management/tree/main/Report">Slides</a> folder.<br>
 
 
 <a name="aboutus"></a>
