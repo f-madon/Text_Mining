@@ -37,7 +37,8 @@ You can find the dataset used in the <a href="https://github.com/TStrada/Text_Mi
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation 
-You can find our presentation in the <a href="https://github.com/TStrada/Text_Mining/blob/main/">Report</a> and <a href="https://github.com/TStrada/Text_Mining/blob/main/">Slides</a> folder.<br>
+You can find our presentation in the <a href="https://github.com/TStrada/Text_Mining/blob/main/Report/Hate Speech_Classification and Clustering.pdf
+">Report</a> and <a href="https://github.com/TStrada/Text_Mining/blob/main/">Slides</a> folder.<br>
 
 
 <a name="aboutus"></a>
