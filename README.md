@@ -37,7 +37,7 @@ You can find the dataset used in the <a href="https://github.com/TStrada/Text_Mi
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation 
-You can find our presentation in the <a href="https://github.com/TStrada/Text_Mining/blob/main/">Report</a> folder.<br> and <a href="https://github.com/TStrada/Text_Mining/blob/main/">Slides</a> folder.<br>
+You can find our presentation in the <a href="https://github.com/TStrada/Text_Mining/blob/main/">Report</a> and <a href="https://github.com/TStrada/Text_Mining/blob/main/">Slides</a> folder.<br>
 
 
 <a name="aboutus"></a>
@@ -54,12 +54,27 @@ You can find our presentation in the <a href="https://github.com/TStrada/Text_Mi
   <a href = "https://github.com/TStrada"><img src="https://github.com/TStrada/TStrada/blob/main/GitHub_image.png" width = "2.5%"></a>
 </p>
 
-&#8860; &nbsp; **Sara Nocco**
+&#8860; &nbsp; **Federica Madon**
 
 - *Current Studies*: Data Science M.Sc. Student at Università degli Studi di Milano-Bicocca (UniMiB);
-- *Background*: 
-- <br>
+- *Background*: Bachelor degree in Mathematics at Università degli Studi di Milano-Bicocca (UniMiB). 
+<br>
 
 <p align = "center">
-<!--   <a href = "https linkedin"><img src="link sub directory image linkedin " width = "2.3%"></a> -->
+  <a href = "https://github.com/f-madon"><img src="https://github.com/TStrada/TStrada/blob/main/GitHub_image.png" width = "2.5%"></a>
 </p>
+
+&#8860; &nbsp; **Emanuela Elli**
+
+- *Current Studies*: Data Science M.Sc. Student at Università degli Studi di Milano-Bicocca (UniMiB);
+- *Background*: Bachelor degree in Computer Science for New Media at Università degli Studi di Milano (UniMi).
+<br>
+
+<p align = "center">
+<a href = "https://www.linkedin.com/in/emanuela-elli-82137b206/"><img src="https://github.com/TStrada/TStrada/blob/main/LinkedIn_logo.png" width = "2.3%"></a>
+  <a href = "https://github.com/emanuelaelli"><img src="https://github.com/TStrada/TStrada/blob/main/GitHub_image.png" width = "2.5%"></a>
+</p>
+
+<p align = "center">
+</p>
+
